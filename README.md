@@ -4,4 +4,4 @@
 3. 2021/3/23 MessageSolution 企业邮件归档管理系统 EEA 存在信息泄露漏洞（CNVD-2021-10543） 
 4. 2021/3/24 Apache OFBiz  远程代码执行(2021-26295) 
 5. 2021/4/1  VMware vRealize Operations Manager SSRF漏洞 CVE-2021-21975
-6. 2021hvv漏洞[博客]: https://www.jianshu.com/u/7ecaba2d594c "郭斌勇的主页"
+6. [2021hvv漏洞](notes/note1.md)
