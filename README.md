@@ -5,3 +5,4 @@
 4. 2021/3/24 Apache OFBiz  远程代码执行(2021-26295) 
 5. 2021/4/1  VMware vRealize Operations Manager SSRF漏洞 CVE-2021-21975
 6. [2021hvv漏洞](2021hvv漏洞)
+7. 2021/4/10 好视通视频会议系统任意文件下载 CNVD-2020-62437
