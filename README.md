@@ -6,3 +6,4 @@
 5. 2021/4/1  VMware vRealize Operations Manager SSRF漏洞 CVE-2021-21975
 6. [2021hvv漏洞](2021hvv漏洞)
 7. 2021/4/10 好视通视频会议系统任意文件下载 CNVD-2020-62437
+8. 2021/4/11 致远OA任意用户登录+文件上传
