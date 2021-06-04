@@ -4,3 +4,4 @@
 3. 用友 NC bsh.servlet.BshServlet 远程命令执行漏洞 poc&exp
 4. ShopXO download 任意文件读取漏洞 CNVD-2021-15822 poc&exp
 5. 发货100-虚拟商品自动发货系统_sql_injection_CNVD_2021_30193
+6. 深信服 行为感知系统 c.php 远程命令执行漏洞
