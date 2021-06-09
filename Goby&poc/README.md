@@ -7,3 +7,4 @@
 6. [深信服 行为感知系统 c.php 远程命令执行漏洞 poc](sangfor_Behavior_perception_system_c.php_RCE.json)
 7. [Finetree-5MP-摄像机 默认口令 未授权任意用户添加](Finetree_5MP_default_password_or_Unauthorized_user_added.json)
 8. [迈普 ISG1000安全网关 任意文件下载漏洞](MPSec_ISG1000_Security_Gateway_Arbitrary_File_Download_Vulnerability.json)
+9. [D-Link ShareCenter DNS-320 system_mgr.cgi 远程命令执行漏洞](D_Link_ShareCenter_DNS_320_RCE.json)
