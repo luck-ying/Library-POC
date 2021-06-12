@@ -9,3 +9,4 @@
 8. [迈普 ISG1000安全网关 任意文件下载漏洞 poc](MPSec_ISG1000_Security_Gateway_Arbitrary_File_Download_Vulnerability.json)
 9. [D-Link ShareCenter DNS-320 system_mgr.cgi 远程命令执行漏洞 poc&exp](D_Link_ShareCenter_DNS_320_RCE.json)
 10. [金和OA C6 download.jsp 任意文件读取漏洞 poc](Jinher_OA_C6_download.jsp_Arbitrary_file_read.json)
+11. [TamronOS IPTV系统任意文件下载 poc&exp](TamronOS_IPTV_Arbitrary_file_download.json)
