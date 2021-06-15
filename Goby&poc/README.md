@@ -12,3 +12,4 @@
 11. [TamronOS IPTV系统任意文件下载 poc&exp](TamronOS_IPTV_Arbitrary_file_download.json)
 12. [FineReport（帆软）报表系统目录遍历漏洞](FineReport_Directory_traversal.json)
 13. [大华DSS系统 任意文件下载漏洞](dahua_DSS_Arbitrary_file_download.json)
+14. [TamronOS IPTV系统存在前台命令执行漏洞](TamronOS_IPTV_RCE.json)
