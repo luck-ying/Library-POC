@@ -13,3 +13,5 @@
 12. [FineReport（帆软）报表系统目录遍历漏洞](FineReport_Directory_traversal.json)
 13. [大华DSS系统 任意文件下载漏洞](dahua_DSS_Arbitrary_file_download.json)
 14. [TamronOS IPTV系统存在前台命令执行漏洞](TamronOS_IPTV_RCE.json)
+15. [极通EWEBS任意文件读取](Jitong_EWEBS_arbitrary_file_read.json)
+16. [极通EWEBS phpinfo泄露](Jitong_EWEBS_phpinfo_leak.json)
