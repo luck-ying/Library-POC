@@ -14,5 +14,6 @@
 13. [大华DSS系统 任意文件下载漏洞 poc&exp](dahua_DSS_Arbitrary_file_download.json)
 14. [TamronOS IPTV系统存在前台命令执行漏洞 poc&exp](TamronOS_IPTV_RCE.json)
 15. [极通EWEBS任意文件读取 poc&exp](Jitong_EWEBS_arbitrary_file_read.json)
-16. [Kyan 网络监控设备 账号密码泄露](Kyan_Account_password_leak.json)
-17. [Kyan 网络监控设备 run.php 远程命令执行漏洞](Kyan_run.php_RCE.json)
+16. [极通EWEBS testweb.php 敏感信息泄露漏洞](Jitong_EWEBS_phpinfo_leak.json)
+17. [Kyan 网络监控设备 账号密码泄露](Kyan_Account_password_leak.json)
+18. [Kyan 网络监控设备 run.php 远程命令执行漏洞](Kyan_run.php_RCE.json)
