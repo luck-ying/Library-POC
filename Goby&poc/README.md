@@ -19,3 +19,4 @@
 18. [Kyan 网络监控设备 run.php 远程命令执行漏洞 poc&exp](Kyan_run.php_RCE.json)
 19. [IceWarp WebClient basic 远程命令执行漏洞 poc&exp](IceWarp_WebClient_basic_RCE.json)
 20. [SDWAN智能网关应用系统弱口令 poc](SDWAN_smart_gateway_weak_password.json)
+21. [JQuery 1.7.2版本站点前台任意文件下载漏洞 poc&exp](JQuery_1.7.2Version_site_foreground_arbitrary_file_download.json)
