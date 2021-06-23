@@ -18,3 +18,4 @@
 17. [Kyan 网络监控设备 账号密码泄露 poc](Kyan_Account_password_leak.json)
 18. [Kyan 网络监控设备 run.php 远程命令执行漏洞 poc&exp](Kyan_run.php_RCE.json)
 19. [IceWarp WebClient basic 远程命令执行漏洞 poc&exp](IceWarp_WebClient_basic_RCE.json)
+20. [SDWAN智能网关应用系统弱口令 poc](SDWAN_smart_gateway_weak_password.json)
