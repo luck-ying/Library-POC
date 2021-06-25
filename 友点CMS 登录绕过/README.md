@@ -10,4 +10,4 @@
 ```
 4.访问 ```/index.php/public/verifyCode?length=2&mode=1&width=22&height=22&verify=AdminGroupID&type=png```
 
-5. 访问  ```/index.php/Admin/Public/AdminLeft/MenuTopID/7 判断PHPSESSID是否有效```
+5.访问  ```/index.php/Admin/Public/AdminLeft/MenuTopID/7 判断PHPSESSID是否有效```
