@@ -21,3 +21,4 @@
 20. [SDWAN智能网关应用系统弱口令 poc](SDWAN_smart_gateway_weak_password.json)
 21. [JQuery 1.7.2版本站点前台任意文件下载漏洞 poc&exp](JQuery_1.7.2Version_site_foreground_arbitrary_file_download.json)
 22. [Lanproxy目录遍历 CVE-2021-3019 poc&exp](Lanproxy_Directory_traversal_CVE_2021_3019.json)
+23. [Active UC index.action 远程命令执行漏洞 poc&exp](Active_UC_index.action_RCE.json)
