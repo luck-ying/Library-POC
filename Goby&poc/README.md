@@ -23,3 +23,5 @@
 22. [Lanproxy目录遍历 CVE-2021-3019 poc&exp](Lanproxy_Directory_traversal_CVE_2021_3019.json)
 23. [Active UC index.action 远程命令执行漏洞 poc&exp](Active_UC_index.action_RCE.json)
 24. [OpenSNS 远程代码执行漏洞 poc&exp](OpenSNS_RCE.json)
+25. [中国移动 禹路由登录绕过 poc](China_Mobile_Yu_routed_the_login_bypass.json)
+26. [中国移动 禹路由敏感信息泄露 poc](China_Mobile_Yu_Routing_Sensitive_Information_Leaks_Vulnerability.json)
