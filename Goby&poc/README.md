@@ -25,3 +25,4 @@
 24. [OpenSNS 远程代码执行漏洞 poc&exp](OpenSNS_RCE.json)
 25. [中国移动 禹路由登录绕过 poc](China_Mobile_Yu_routed_the_login_bypass.json)
 26. [中国移动 禹路由敏感信息泄露 poc](China_Mobile_Yu_Routing_Sensitive_Information_Leaks_Vulnerability.json)
+27. [GitLab SSRF漏洞 CVE-2021-22214(扫描出来后请使用验证模块验证，URL处输入dnslog的URL查看是否有数据) poc](GitLab_SSRF_CVE_2021_22214.json)
