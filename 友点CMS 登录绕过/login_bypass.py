@@ -13,7 +13,7 @@ def session(target,sessions):
     
     
 if __name__ == '__main__':
-    target='http://www.sycreader.com'
+    target='http://x.x.x.x'
     print("-"*10 + "=<V9.1" + "-"*10)
     VersionURL = target + '/index.php/base?a=Version'
     res_version = requests.get(VersionURL)
