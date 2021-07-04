@@ -26,3 +26,4 @@
 25. [中国移动 禹路由登录绕过 poc](China_Mobile_Yu_routed_the_login_bypass.json)
 26. [中国移动 禹路由敏感信息泄露 poc](China_Mobile_Yu_Routing_Sensitive_Information_Leaks_Vulnerability.json)
 27. [GitLab SSRF漏洞 CVE-2021-22214(扫描出来后请使用验证模块验证，URL处输入dnslog的URL查看是否有数据) poc](GitLab_SSRF_CVE_2021_22214.json)
+28. [小米系列路由器远程任意文件读取漏洞（CVE-2019-18371）poc&exp](xiaomi_Mi_wiFi_From_File_Read_To_Login_CVE_2019_18370.go)
