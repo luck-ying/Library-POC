@@ -28,3 +28,4 @@
 27. [GitLab SSRF漏洞 CVE-2021-22214(扫描出来后请使用验证模块验证，URL处输入dnslog的URL查看是否有数据) poc](GitLab_SSRF_CVE_2021_22214.json)
 28. [小米系列路由器远程任意文件读取漏洞（CVE-2019-18371）poc&exp](xiaomi_Mi_wiFi_From_File_Read_To_Login_CVE_2019_18370.go)
 29. [Node-RED ui base 任意文件读取漏洞 CVE-2021-3223 poc&exp](Node_red_UI_base_Arbitrary_File_Read_Vulnerability_CVE_2021_3223.go)
+30. [图创图书馆集群管理系统存在任意文件读取漏洞 CNVD-2021-34454 poc&exp](Tuchuang_Library_System_Arbitrary_Reading_File_CNVD_2021_34454.go)
