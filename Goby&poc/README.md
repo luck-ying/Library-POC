@@ -29,3 +29,4 @@
 28. [小米系列路由器远程任意文件读取漏洞（CVE-2019-18371）poc&exp](xiaomi_Mi_wiFi_From_File_Read_To_Login_CVE_2019_18370.go)
 29. [Node-RED ui base 任意文件读取漏洞 CVE-2021-3223 poc&exp](Node_red_UI_base_Arbitrary_File_Read_Vulnerability_CVE_2021_3223.go)
 30. [图创图书馆集群管理系统存在任意文件读取漏洞 CNVD-2021-34454 poc&exp](Tuchuang_Library_System_Arbitrary_Reading_File_CNVD_2021_34454.go)
+31. [ForgeRock OpenAM 远程代码执行漏洞 (CVE-2021-35464) poc&exp](ForgeRock_AM_RCE_CVE_2021_35464.go) 误报率有点高，请务必验证返回信息
