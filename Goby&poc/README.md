@@ -31,3 +31,4 @@
 30. [图创图书馆集群管理系统存在任意文件读取漏洞 CNVD-2021-34454 poc&exp](Tuchuang_Library_System_Arbitrary_Reading_File_CNVD_2021_34454.go)
 31. [ForgeRock OpenAM 远程代码执行漏洞 (CVE-2021-35464) poc&exp](ForgeRock_AM_RCE_CVE_2021_35464.go) 误报率有点高，请务必验证返回信息
 32. [FLIR-AX8存在任意文件下载漏洞 poc&exp](FLIR_AX8_Arbitrary_File_Download_Vulnerability CNVD-2021-39018.go)
+33. [jeewms存在未授权任意文件读取漏洞 poc&exp](JEEWMS_Arbitrary_File_Read_Vulnerability.go)
