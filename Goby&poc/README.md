@@ -10,9 +10,7 @@
 9. [D-Link ShareCenter DNS-320 system_mgr.cgi 远程命令执行漏洞 poc&exp](D_Link_ShareCenter_DNS_320_RCE.json)
 10. [金和OA C6 download.jsp 任意文件读取漏洞 poc](Jinher_OA_C6_download.jsp_Arbitrary_file_read.json)
 11. [TamronOS IPTV系统任意文件下载 poc&exp](TamronOS_IPTV_Arbitrary_file_download.json)
-12. 
 13. [FineReport（帆软）报表系统目录遍历漏洞 poc](FineReport_Directory_traversal.json)
-14. [浙江大华技术股份有限公司大华DSS系统存在任意文件下载漏洞](dahua_DSS_Arbitrary_file_download CNVD-2020-61986.go)
 15. [TamronOS IPTV系统存在前台命令执行漏洞 poc&exp](TamronOS_IPTV_RCE.json)
 16. [极通EWEBS任意文件读取 poc&exp](Jitong_EWEBS_arbitrary_file_read.json)
 17. [极通EWEBS testweb.php 敏感信息泄露漏洞 poc](Jitong_EWEBS_phpinfo_leak.json)
@@ -33,3 +31,4 @@
 32. [ForgeRock OpenAM 远程代码执行漏洞 (CVE-2021-35464) poc&exp](ForgeRock_AM_RCE_CVE_2021_35464.go) 误报率有点高，请务必验证返回信息
 33. [FLIR-AX8存在任意文件下载漏洞 poc&exp](FLIR_AX8_Arbitrary_File_Download_Vulnerability CNVD-2021-39018.go)
 34. [jeewms存在未授权任意文件读取漏洞 poc&exp](JEEWMS_Arbitrary_File_Read_Vulnerability.go)
+35. [浙江大华技术股份有限公司大华DSS系统存在任意文件下载漏洞 poc&exp](dahua_DSS_Arbitrary_file_download CNVD-2020-61986.go)
