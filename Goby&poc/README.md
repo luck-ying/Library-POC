@@ -11,7 +11,7 @@
 10. [金和OA C6 download.jsp 任意文件读取漏洞 poc](Jinher_OA_C6_download.jsp_Arbitrary_file_read.json)
 11. [TamronOS IPTV系统任意文件下载 poc&exp](TamronOS_IPTV_Arbitrary_file_download.json)
 13. [FineReport（帆软）报表系统目录遍历漏洞 poc](FineReport_Directory_traversal.json)
-14. [poc&exp](dahua_DSS_Arbitrary_file_download_cnvd.go)
+14. [poc&exp](dahua_DSS_Arbitrary_file_download_cnvd_2020_61986.go)
 15. [TamronOS IPTV系统存在前台命令执行漏洞 poc&exp](TamronOS_IPTV_RCE.json)
 16. [极通EWEBS任意文件读取 poc&exp](Jitong_EWEBS_arbitrary_file_read.json)
 17. [极通EWEBS testweb.php 敏感信息泄露漏洞 poc](Jitong_EWEBS_phpinfo_leak.json)
