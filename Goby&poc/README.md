@@ -33,4 +33,4 @@
 33. [FLIR-AX8存在任意文件下载漏洞 poc&exp](FLIR_AX8_Arbitrary_File_Download_Vulnerability_CNVD-2021-39018.go)
 34. [jeewms存在未授权任意文件读取漏洞 poc&exp](JEEWMS_Arbitrary_File_Read_Vulnerability.go)
 35. [中庆纳博教育云平台敏感信息泄露 poc](ZhongQing_naibo_Education_Cloud_Platform_Information_leakage.go)
-36. [中庆纳博教育云平台未授权密码重置漏洞 poc&exp](ZhongQing_naibo_Education_Cloud_platform_reset_password.go)
+36. [中庆纳博教育云平台未授权密码重置漏洞 poc&exp(请谨慎利用，会重置账号密码)](ZhongQing_naibo_Education_Cloud_platform_reset_password.go)
