@@ -32,3 +32,5 @@
 32. [ForgeRock OpenAM 远程代码执行漏洞 (CVE-2021-35464) poc&exp](ForgeRock_AM_RCE_CVE_2021_35464.go) 误报率有点高，请务必验证返回信息
 33. [FLIR-AX8存在任意文件下载漏洞 poc&exp](FLIR_AX8_Arbitrary_File_Download_Vulnerability_CNVD-2021-39018.go)
 34. [jeewms存在未授权任意文件读取漏洞 poc&exp](JEEWMS_Arbitrary_File_Read_Vulnerability.go)
+35. [中庆纳博教育云平台敏感信息泄露 poc](ZhongQing_naibo_Education_Cloud_Platform_Information_leakage.go)
+36. [中庆纳博教育云平台未授权密码重置漏洞 poc&exp](ZhongQing_naibo_Education_Cloud_platform_reset_password.go)
