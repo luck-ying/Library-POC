@@ -34,4 +34,4 @@
 34. [jeewms存在未授权任意文件读取漏洞 poc&exp](JEEWMS_Arbitrary_File_Read_Vulnerability.go)
 35. [中庆纳博教育云平台敏感信息泄露 poc&exp](ZhongQing_naibo_Education_Cloud_Platform_Information_leakage.go)
 36. [中庆纳博教育云平台未授权密码重置漏洞 poc&exp](ZhongQing_naibo_Education_Cloud_platform_reset_password.go) 请谨慎利用，会重置账号密码
-37. 多家网络设备存在[账号密码泄露](Many_network_devices_have_password_leaks.go)、[任意文件下载](Many network devices have arbitrary file downloads.go)
+37. 多家网络设备存在[账号密码泄露](Many_network_devices_have_password_leaks.go)、[任意文件下载](Many_network_devices_have_arbitrary_file_downloads.go)
