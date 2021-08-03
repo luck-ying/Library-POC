@@ -37,3 +37,4 @@
 37. 多家网络设备存在[账号密码泄露](Many_network_devices_have_password_leaks.go)、[任意文件下载](Many_network_devices_have_arbitrary_file_downloads.go)
 38. [天融信Reporter任意文件下载 poc&exp](TopSec_Reporter_Arbitrary_file_download_CNVD_2021_41972.go)
 39. [大唐电信科技股份有限公司NVS3000综合视频监控平台 未授权访问 poc](NVS3000_integrated_video_surveillance_platform_is_not_accessible.go)
+40. [全息AI网络运维平台 RCE poc&exp](Holographic_AI_network_operation_and_maintenance_platform_RCE.go)
