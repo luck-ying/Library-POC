@@ -38,3 +38,4 @@
 38. [天融信Reporter任意文件下载 poc&exp](TopSec_Reporter_Arbitrary_file_download_CNVD_2021_41972.go)
 39. [大唐电信科技股份有限公司NVS3000综合视频监控平台 未授权访问 poc](NVS3000_integrated_video_surveillance_platform_is_not_accessible.go)
 40. [全息AI网络运维平台 RCE poc&exp](Holographic_AI_network_operation_and_maintenance_platform_RCE.go)
+41. [龙璟科技BEMS API 1.21 Remote Arbitrary File Download poc&exp](Longjing_Technology_BEMS_API_1.21_Remote_Arbitrary_File_Download.go)
