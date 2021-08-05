@@ -11,7 +11,7 @@
 11. 2021/6/25 友点CMS 登录绕过 =<V9.1
 12. 2021/6/25 eyouCMS 登录绕过
 ## pocsuite3 POC
-13. 2021/8/5 H3C SecParh堡垒机 data_provider.php RCE
+1. 2021/8/5 H3C SecParh堡垒机 data_provider.php RCE
 
 
 [Goby&poc](Goby&poc)
