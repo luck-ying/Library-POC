@@ -12,6 +12,7 @@
 12. 2021/6/25 eyouCMS 登录绕过
 ## pocsuite3 POC
 1. 2021/8/5 H3C SecParh堡垒机 data_provider.php RCE
+2. 2021/8/12 ClickHouse数据库 8123端口的未授权访问
 
 
 [Goby&poc](Goby&poc)
