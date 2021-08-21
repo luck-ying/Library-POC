@@ -40,3 +40,5 @@
 40. [全息AI网络运维平台 RCE poc&exp](Holographic_AI_network_operation_and_maintenance_platform_RCE.go)
 41. [龙璟科技BEMS API 1.21 Remote Arbitrary File Download poc&exp](Longjing_Technology_BEMS_API_1.21_Remote_Arbitrary_File_Download.go)
 42. [AceNet AceReporter报表组件涉及防火墙任意文件下载 poc&exp](AceNet_AceReporter_Report_component_Arbitrary_file_download.go)
+43. [Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__ping_RCE poc&exp](Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__ping_RCE.go)
+44. [Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__tracert_RCE poc&exp](Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__tracert_RCE.go)
