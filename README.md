@@ -14,6 +14,7 @@
 1. 2021/8/5 H3C SecParh堡垒机 data_provider.php RCE
 2. 2021/8/12 ClickHouse数据库 8123端口的未授权访问
 3. 2021/8/12 Ivanti Avalanche打印机管理系统任意文件下载
+4. 2021/8/21 深圳市西迪特科技有限公司 西迪特 WiFi Web管理系统 RCE
 
 
 [Goby&poc](Goby&poc)
