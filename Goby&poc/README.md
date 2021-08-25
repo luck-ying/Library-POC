@@ -42,3 +42,7 @@
 42. [AceNet AceReporter报表组件涉及防火墙任意文件下载 poc&exp](AceNet_AceReporter_Report_component_Arbitrary_file_download.go)
 43. [Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__ping_RCE poc&exp](Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__ping_RCE.go)
 44. [Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__tracert_RCE poc&exp](Shenzhen_West_dieter_Technology_Co_LTD_CPE_WiFi__tracert_RCE.go)
+45. [SPON IP网络对讲广播系统 exportrecord.php 任意文件下载 poc&exp](SPON_IP_network_intercom_broadcast_system_exportrecord.php_any_file_download.go)
+46. [SPON IP网络对讲广播系统 getjson.php 任意文件读取 poc&exp](SPON_IP_network_intercom_broadcast_system_getjson.php_Arbitrary_file_read.go)
+47. [SPON IP网络对讲广播系统 rj_get_token.php任意文件读取 poc&exp](SPON_IP_network_intercom_broadcast_system_rj_get_token.php_any_file_read.go)
+48. [SPON IP网络对讲广播系统 ping.php RCE poc&exp](SPON_IP_network_intercom_broadcast_system_ping.php_RCE.go)
