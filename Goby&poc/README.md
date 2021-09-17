@@ -48,3 +48,5 @@
 48. [SPON IP网络对讲广播系统 ping.php RCE poc&exp](SPON_IP_network_intercom_broadcast_system_ping.php_RCE.go)
 49. [和嘉科技 PEMS SystemLog.cgi 任意文件下载 poc&exp](HEJIA_PEMS_SystemLog.cgi_Arbitrary_file_download.go)
 50. [CVE-2021-26084：Confluence OGNL 注入漏洞](Atlassian_Confluence_OGNL_injection_CVE_2021_26084.json)
+51. [微模块机房动力环境监控系统 信息泄露](Micro_module_monitoring_system_User_list.php_information_leakage)
+
