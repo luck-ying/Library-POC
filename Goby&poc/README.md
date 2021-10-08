@@ -49,4 +49,5 @@
 49. [和嘉科技 PEMS SystemLog.cgi 任意文件下载 poc&exp](HEJIA_PEMS_SystemLog.cgi_Arbitrary_file_download.go)
 50. [CVE-2021-26084：Confluence OGNL 注入漏洞](Atlassian_Confluence_OGNL_injection_CVE_2021_26084.json)
 51. [微模块机房动力环境监控系统 信息泄露](Micro_module_monitoring_system_User_list.php_information_leakage)
+52. [Apache HTTP服务目录遍历 (CVE-2021-41773)](Apache_2.4.49_Path_Traversal_CVE_2021_41773.json)
 
