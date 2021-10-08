@@ -17,6 +17,7 @@
 4. 2021/08/21 深圳市西迪特科技有限公司 西迪特 WiFi Web管理系统 RCE
 5. 2021/08/25 [SPON IP网络对讲广播系统 多个漏洞](SPON_IP网络对讲广播系统)
 6. 2021/09/03 [CVE-2021-26084：Confluence OGNL 注入漏洞](Atlassian_Confluence)
+7. 2021/10/07 [Apache HTTP服务目录遍历 (CVE-2021-41773)](Apache)
 
 [Goby&poc](Goby&poc)
 
