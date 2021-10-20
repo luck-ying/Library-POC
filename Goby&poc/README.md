@@ -51,4 +51,6 @@
 51. [微模块机房动力环境监控系统 信息泄露](Micro_module_monitoring_system_User_list.php_information_leakage)
 52. [Apache HTTP服务目录遍历 (CVE-2021-41773)](Apache_2.4.49_Path_Traversal_CVE_2021_41773.json)
 53. [Apache 2.4.49-2.4.50 RCE](Apache_2.4.49_RCE_CVE_2021_41773_and_2.4.50_CVE_2021_42013.json)
+54. [畅捷CRM SQL注入](chanjet_CRM_get_usedspace.php_sql_injection.json)
+55. [网御网上行为管理系统Leadsec ACM信息泄露](Leadsec_ACM_information_leakage_CNVD_2016_08574.json)
 
