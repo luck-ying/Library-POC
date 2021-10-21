@@ -18,6 +18,7 @@
 5. 2021/08/25 [SPON IP网络对讲广播系统 多个漏洞](SPON_IP网络对讲广播系统)
 6. 2021/09/03 [CVE-2021-26084：Confluence OGNL 注入漏洞](Atlassian_Confluence)
 7. 2021/10/07 [Apache HTTP服务目录遍历 (CVE-2021-41773)](Apache)
+8. 2021/10/21 [网御星云多个漏洞](网御星云)
 
 [Goby&poc](Goby&poc)
 
