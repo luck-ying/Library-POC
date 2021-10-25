@@ -19,6 +19,7 @@
 6. 2021/09/03 [CVE-2021-26084：Confluence OGNL 注入漏洞](Atlassian_Confluence)
 7. 2021/10/07 [Apache HTTP服务目录遍历 (CVE-2021-41773)](Apache)
 8. 2021/10/21 [网御星云多个漏洞](网御星云)
+9. 2021/10/25 [天问物业ERP系统文件上传](天问物业ERP系统)
 
 [Goby&poc](Goby&poc)
 
