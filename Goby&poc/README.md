@@ -54,4 +54,5 @@
 54. [畅捷CRM SQL注入](chanjet_CRM_get_usedspace.php_sql_injection.json)
 55. [网御网上行为管理系统Leadsec ACM信息泄露](Leadsec_ACM_information_leakage_CNVD_2016_08574.json)
 56. [天问物业ERP系统 任意文件上传poc&exp](Tianwen_ERP_system__uploadfile.aspx_Arbitraryvfilevupload.json)
+57. [iRDM4000智慧站房 越权访问 poc](IRDM4000_Smart_station_Unauthorized_access.json)
 
