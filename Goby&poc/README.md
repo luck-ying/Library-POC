@@ -56,4 +56,5 @@
 56. [天问物业ERP系统 任意文件上传poc&exp](Tianwen_ERP_system__uploadfile.aspx_Arbitraryvfilevupload.json)
 57. [iRDM4000智慧站房 越权访问 poc](IRDM4000_Smart_station_Unauthorized_access.json)
 58. [Apache Druid Arbitrary File Read (CVE-2021-36749)](Apache_Druid_Arbitrary_File_Read_CVE_2021_36749.json)
+59. [D-Link-DIR-868L getcfg.php Account password leakage](D_Link_DIR_868L_getcfg.php_Account_password_leakage.json)
 
