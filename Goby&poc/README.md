@@ -58,4 +58,5 @@
 58. [Apache Druid Arbitrary File Read (CVE-2021-36749)](Apache_Druid_Arbitrary_File_Read_CVE_2021_36749.json)
 59. [D-Link-DIR-868L getcfg.php Account password leakage](D_Link_DIR_868L_getcfg.php_Account_password_leakage.json)
 60. [KEDACOM MTS transcoding server Arbitrary file download CNVD-2020-48650](KEDACOM_MTS_transcoding_server_Arbitrary_file_download_CNVD_2020_48650.json)
+61. [H5S视频平台 信息泄露](H5S_video_platform_GetSrc_information_leakage.json)[密码泄露](H5S_video_platform_GetUserInfo_Account_password_leakage.json)
 
