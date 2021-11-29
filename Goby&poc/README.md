@@ -60,4 +60,5 @@
 60. [KEDACOM MTS transcoding server Arbitrary file download CNVD-2020-48650](KEDACOM_MTS_transcoding_server_Arbitrary_file_download_CNVD_2020_48650.json)
 61. [H5S视频平台 信息泄露](H5S_video_platform_GetSrc_information_leakage.json)[密码泄露](H5S_video_platform_GetUserInfo_Account_password_leakage.json)
 62. [Metabase geojson 任意文件读取漏洞 CVE-2021-41277](Metabase_geojson_Arbitrary_file_reading_CVE_2021_41277.json)
+63. [泛微v9.0 e-office UploadFile.php CNVD-2021-49104](Weaver_e_office_UploadFile.php_file_upload_CNVD_2021_49104.json)
 
