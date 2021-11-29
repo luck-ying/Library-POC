@@ -26,6 +26,7 @@
 13. 2021/11/15 [孚盟云](孚盟云)
 14. 2021/11/15 [Apache Druid](Apache)
 15. 2021/11/22 [Metabase](Metabase)
+16. 2021/11/29 [Weaver](Weaver)
 
 [Goby&poc](Goby&poc)
 
