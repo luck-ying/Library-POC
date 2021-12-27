@@ -27,6 +27,7 @@
 14. 2021/11/15 [Apache Druid](Apache)
 15. 2021/11/22 [Metabase](Metabase)
 16. 2021/11/29 [Weaver](Weaver)
+17. 2021/12/27 [Gerapy](Gerapy)
 
 [Goby&poc](Goby&poc)
 
