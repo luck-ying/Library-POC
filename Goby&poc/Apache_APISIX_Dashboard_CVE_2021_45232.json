@@ -47,7 +47,7 @@
                                     "type": "item",
                                     "variable": "$body",
                                     "operation": "contains",
-                                    "value": "username",
+                                    "value": "Counsumers",
                                     "bz": ""
                               }
                         ]
