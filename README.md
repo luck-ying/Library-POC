@@ -32,8 +32,11 @@
 19. 2021/12/27 [Apache_ShenYu_Admin](Apache_ShenYu_Admin)
 20. 2021/12/29 [Apache/Apache_APISIX_Dashboard](Apache/Apache_APISIX_Dashboard)
 
+## Goby POC
 [Goby&poc](Goby&poc)
 
+## xray_yaml POC
+1. sunlogin_RCE_CNVD-2022-10270
 # 使用需知
 由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。
 
