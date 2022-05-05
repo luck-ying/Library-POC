@@ -33,6 +33,7 @@
 20. 2021/12/29 [Apache/Apache_APISIX_Dashboard](Apache/Apache_APISIX_Dashboard)
 21. 2022/03/09 TerraMaster TOS RCE
 22. 2022/04/01 spring-cloud-function-rce
+23. 2022/05/05 EQ企业管理系统SQL注入
 
 ## Goby POC
 [Goby&poc](Goby&poc)
