@@ -63,4 +63,5 @@
 63. [泛微v9.0 e-office UploadFile.php CNVD-2021-49104](Weaver_e_office_UploadFile.php_file_upload_CNVD_2021_49104.json)
 64. [Grafan 任意文件读取](Grafana_Arbitrary_file_read.json)
 65. [Apache_APISIX_Dashboard_CVE_2021_45232.json](Apache_APISIX_Dashboard_CVE_2021_45232.json)
+66. [F5-BIGIP iControl REST绕过授权访问漏洞 CVE_2022_1388](F5_BIG_IP_login_bypass_CVE_2022_1388.go)
 
