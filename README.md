@@ -48,3 +48,9 @@ luck-ying 拥有对此库的修改和解释权，不得以任何方式将其用�
 Goby & EXP 与 POC 仅仅只供对已授权的目标使用测试，对未授权目标的测试，本库不承担责任，均由本人自行承担
 
 ![](wx.png)
+
+# Star曲线
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/luck-ying/Library-POC.svg)](https://starchart.cc/luck-ying/Library-POC)
