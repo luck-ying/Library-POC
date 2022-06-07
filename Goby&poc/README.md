@@ -64,4 +64,5 @@
 64. [Grafan 任意文件读取](Grafana_Arbitrary_file_read.json)
 65. [Apache_APISIX_Dashboard_CVE_2021_45232.json](Apache_APISIX_Dashboard_CVE_2021_45232.json)
 66. [F5-BIGIP iControl REST绕过授权访问漏洞 CVE_2022_1388](F5_BIG_IP_login_bypass_CVE_2022_1388.go)
+67. [Atlassian Confluence 远程代码执行(CVE-2022-26134)](Atlassian_Confluence_Webwork_OGNL_Inject_CVE_2022_26134.go)
 
