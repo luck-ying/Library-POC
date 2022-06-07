@@ -36,6 +36,7 @@
 23. 2022/05/05 EQ企业管理系统SQL注入
 24. 2022/05/11 F5_BIG-IP_login-bypass-CVE-2022-1388
 25. 2022/05/14 Zyxel USG FLEX RCE CVE-2022-30525
+26. 2022/06/07 Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134）
 
 ## Goby POC
 [Goby&poc](Goby&poc)
