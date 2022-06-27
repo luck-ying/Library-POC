@@ -38,6 +38,7 @@
 25. 2022/05/14 [Zyxel USG FLEX RCE CVE-2022-30525](Zyxel)
 26. 2022/06/07 [Atlassian Confluence 远程代码执行漏洞](Atlassian_Confluence)
 27. 2022/06/24 [Webgrind 1.5版本文件读取](Webgrind)
+28. 2022/06/27 [Apache CouchDB 3.2.1 RCE CVE-2022-24706](Apache/Apache_CouchDB)
 
 ## Goby POC
 [Goby&poc](Goby&poc)
