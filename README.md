@@ -42,6 +42,8 @@
 29. 2022/07/17 [Landray-OA-Treexml-Rce](蓝凌OA) 
 30. 2022/07/17 [Crestron设备账号密码泄露-CVE-2022-23178](Crestron)
 31. 2022/07/20 [SolarView-Compact-6.00目录遍历( CVE-2022-29298)](SolarView)
+32. 2022/07/20 [zhixiangOA_msg.aspx_sql](致翔OA)
+32. 2022/07/20 [zhixiangOA_msglog.aspx_sql](致翔OA)
 
 ## Goby POC
 [Goby&poc](Goby&poc)
