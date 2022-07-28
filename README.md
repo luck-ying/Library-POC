@@ -44,6 +44,7 @@
 31. 2022/07/20 [SolarView-Compact-6.00目录遍历( CVE-2022-29298)](SolarView)
 32. 2022/07/20 [zhixiangOA_msg.aspx_sql](致翔OA)
 32. 2022/07/20 [zhixiangOA_msglog.aspx_sql](致翔OA)
+33. 2022/07/28 [CHIYU-指纹机默认口令](CHIYU-指纹机)
 
 ## Goby POC
 [Goby&poc](Goby&poc)
