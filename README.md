@@ -45,6 +45,9 @@
 32. 2022/07/20 [zhixiangOA_msg.aspx_sql](致翔OA)
 32. 2022/07/20 [zhixiangOA_msglog.aspx_sql](致翔OA)
 33. 2022/07/28 [CHIYU-指纹机默认口令](CHIYU-指纹机)
+2022 HW
+33. 2022/07/30 [用友-KSOA-前台任意文件上传]
+33. 2022/07/30 [天融信上网行为管理系统static_convert.php命令执行]
 
 ## Goby POC
 [Goby&poc](Goby&poc)
