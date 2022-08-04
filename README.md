@@ -50,7 +50,8 @@
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
 3. 2022/07/29 [泛微eoffice10前台任意文件上传](Weaver/泛微eoffice10前台任意文件上传.py)
 4. 2022/07/29 [zentao-禅道SQL注入漏洞（CNVD-2022-42853）](zentao-禅道/zentao_sql_injection_CNVD-2022-42853.py)
-5. 2022/07/29[明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
+5. 2022/07/29 [明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
+6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
 
 ## Goby POC
 [Goby&poc](Goby&poc)
