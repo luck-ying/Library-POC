@@ -53,7 +53,7 @@
 5. 2022/07/29 [明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
 6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
 
-## Goby POC
+## Goby POC (仅适用于2.0之前的版本，2.0版本导入后会导致查询规则为空，导致poc匹配了所有资产)
 [Goby&poc](Goby&poc)
 
 # 使用需知
