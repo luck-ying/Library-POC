@@ -45,6 +45,7 @@
 32. 2022/07/20 [zhixiangOA_msg.aspx_sql](致翔OA)
 32. 2022/07/20 [zhixiangOA_msglog.aspx_sql](致翔OA)
 33. 2022/07/28 [CHIYU-指纹机默认口令](CHIYU-指纹机)
+34. 2022/08/29 [Zimbra任意文件上传漏洞（CVE-2022-27925）](Zimbra/CVE-2022-27925-路径穿越导致RCE.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
@@ -52,7 +53,7 @@
 4. 2022/07/29 [zentao-禅道SQL注入漏洞（CNVD-2022-42853）](zentao-禅道/zentao_sql_injection_CNVD-2022-42853.py)
 5. 2022/07/29 [明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
 6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
-7. 2022/08/29 [Zimbra任意文件上传漏洞（CVE-2022-27925）](Zimbra/CVE-2022-27925-路径穿越导致RCE.py)
+
 
 ## Goby POC (仅适用于2.0之前的版本，2.0版本导入后会导致查询规则为空，导致poc匹配了所有资产，后面会新开一个仓库写2.0版本的poc)
 [Goby&poc](Goby&poc)
