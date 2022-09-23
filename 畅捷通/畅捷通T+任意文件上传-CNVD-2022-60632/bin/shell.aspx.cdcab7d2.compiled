@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/shell.aspx" hash="62838a9aa" filehash="3483983f8027" flags="110000" assembly="App_Web_shell.aspx.cdcab7d2" type="ASP.shell_aspx">
+    <filedeps>
+        <filedep name="/shell.aspx" />
+    </filedeps>
+</preserve>
