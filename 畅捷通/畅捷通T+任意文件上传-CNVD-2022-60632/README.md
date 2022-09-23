@@ -8,9 +8,11 @@ CMD 命令执行
 <image src="images/1.png">
 
 将bin文件中的两个文件移动到poc目录下的bin文件中
+
 <image src="images/2.png">
 
 也可以使用bin中自带的哥斯拉shell
+
 <image src="images/3.png">
 
 然后运行poc即可
