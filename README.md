@@ -48,6 +48,7 @@
 34. 2022/08/29 [Zimbra任意文件上传漏洞（CVE-2022-27925）](Zimbra/CVE-2022-27925-路径穿越导致RCE.py)
 35. 2022/09/23 [畅捷通T+任意文件上传-CNVD-2022-60632](畅捷通/畅捷通T+任意文件上传-CNVD-2022-60632)
 36. 2022/11/03 [Atlassian Bitbucket 命令注入漏洞 CVE-2022-36804:](Atlassian-Bitbucket/Atlassian_Bitbucket_archive_RCE_CVE_2022_36804.py)
+37. 2022/12/13 [ThinkPHP 6.0.0-6.0.13 多语言功能远程代码执行漏洞](thinkphp/Thinkphp-multi-language-rce.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
