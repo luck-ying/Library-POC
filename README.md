@@ -56,6 +56,7 @@
 4. 2022/07/29 [zentao-禅道SQL注入漏洞（CNVD-2022-42853）](zentao-禅道/zentao_sql_injection_CNVD-2022-42853.py)
 5. 2022/07/29 [明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
 6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
+7. 2023/02/23 [禅道系统权限绕过与命令执行漏洞](zentao-禅道/zentao-禅道.py)
 
 
 ## Goby POC (仅适用于2.0之前的版本，2.0版本导入后会导致查询规则为空，导致poc匹配了所有资产，后面会新开一个仓库写2.0版本的poc)
