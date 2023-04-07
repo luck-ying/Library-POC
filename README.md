@@ -51,6 +51,7 @@
 37. 2022/12/13 [ThinkPHP 6.0.0-6.0.13 多语言功能远程代码执行漏洞](thinkphp/Thinkphp-multi-language-rce.py)
 38. 2023/02/23 [禅道系统权限绕过与命令执行漏洞](zentao-禅道/zentao_rce_.py)
 39. 2023/02/23 [TVT数码科技 NVMS-1000任意文件读取](TVT数码科技-NVMS-1000/TVT数码科技-NVMS-1000任意文件读取.py)
+40. 2023/04/07 [极限OA video_file.php 任意文件读取](极限OA/极限OA video_file.php 任意文件读取.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
