@@ -52,6 +52,7 @@
 38. 2023/02/23 [禅道系统权限绕过与命令执行漏洞](zentao-禅道/zentao_rce_.py)
 39. 2023/02/23 [TVT数码科技 NVMS-1000任意文件读取](TVT数码科技-NVMS-1000/TVT数码科技-NVMS-1000任意文件读取.py)
 40. 2023/04/07 [极限OA video_file.php 任意文件读取](极限OA/极限OA_video_file.php_任意文件读取.py)
+41. 2023/04/11 [Joomla_未授权访问_CVE-2023-23752](/Joomla/Joomla_unauthorized_CVE-2023-23752.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
