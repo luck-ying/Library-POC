@@ -79,6 +79,7 @@ Goby & EXP 与 POC 仅仅只供对已授权的目标使用测试，对未授权�
 
 ![Visitor Count](https://profile-counter.glitch.me/Library-POC/count.svg)
 
-# Star曲线
+# Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/luck-ying/Library-POC.svg)](https://starchart.cc/luck-ying/Library-POC)
+
