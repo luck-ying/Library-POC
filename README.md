@@ -64,6 +64,36 @@
 5. 2022/07/29 [明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
 6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
 
+## 2023 HW
+1. [企望制造ERP_comboxstore.action远程命令执行漏洞](/2023HW/2023.8.13/企望制造ERP_comboxstore.action远程命令执行漏洞.py)
+2. [大华智慧园区综合管理平台getFaceCapture_SQL注入漏洞](/2023HW/2023.8.13/大华智慧园区综合管理平台getFaceCapture_SQL注入漏洞.py)
+3. [大华智慧园区综合管理平台video任意文件上传漏洞](/2023HW/2023.8.13/大华智慧园区综合管理平台video任意文件上传漏洞.py)
+4. [腾讯私有化企业微信agentinfo信息泄露](/2023HW/2023.8.13/腾讯私有化企业微信agentinfo信息泄露.py)
+5. [KubePi_JwtSigKey_登陆绕过漏洞CVE-2023-22463](/2023HW/2023.8.14/KubePi_JwtSigKey_登陆绕过漏洞CVE-2023-22463.py)
+6. [启明星辰4A统一安全管控平台getMaster.do信息泄漏漏洞](/2023HW/2023.8.14/启明星辰4A统一安全管控平台getMaster.do信息泄漏漏洞.py)
+7. [大华智慧园区综合管理平台user_getUserInfoByUserName.action账号密码泄漏漏洞](/2023HW/2023.8.14/大华智慧园区综合管理平台user_getUserInfoByUserName.action账号密码泄漏漏洞.py)
+8. [飞企互联FE业务协作平台ShowImageServlet任意文件读取漏洞](/2023HW/2023.8.14/飞企互联FE业务协作平台ShowImageServlet任意文件读取漏洞.py)
+9. [OfficeWeb365_SaveDraw任意文件上传漏洞](/2023HW/2023.8.15/OfficeWeb365_SaveDraw任意文件上传漏洞.py)
+10. [安恒明御安全网关aaa_portal_auth_local_submit远程命令执行漏洞](/2023HW/2023.8.15/安恒明御安全网关aaa_portal_auth_local_submit远程命令执行漏洞.py)
+11. [帆软报表channel反序列化远程命令执行漏洞](/2023HW/2023.8.15/帆软报表channel反序列化远程命令执行漏洞.py)
+12. [新开普前置服务管理平台service.action远程命令执行漏洞](/2023HW/2023.8.15/新开普前置服务管理平台service.action远程命令执行漏洞.py)
+13. [明源云ERP系统接口管家ApiUpdate.ashx任意文件上传漏洞](/2023HW/2023.8.15/明源云ERP系统接口管家ApiUpdate.ashx任意文件上传漏洞.py)
+14. [深信服DC数据中心管理系统sangforindex_XML实体注入漏洞](/2023HW/2023.8.15/深信服DC数据中心管理系统sangforindex_XML实体注入漏洞.py)
+15. [致远OA_M1Server_userTokenService远程命令执行漏洞](/2023HW/2023.8.15/致远OA_M1Server_userTokenService远程命令执行漏洞.py)
+16. [金蝶OA云星空CommonFileServer任意文件读取漏洞](/2023HW/2023.8.15/金蝶OA云星空CommonFileServer任意文件读取漏洞.py)
+17. [HiKVISION综合安防管理平台files任意文件上传漏洞](/2023HW/2023.8.9/HiKVISION综合安防管理平台files任意文件上传漏洞.py)
+18. [HiKVISION综合安防管理平台report任意文件上传漏洞](/2023HW/2023.8.9/HiKVISION综合安防管理平台report任意文件上传漏洞.py)
+19. [汉得SRM_tomcat.jsp登陆绕过漏洞](/2023HW/2023.8.9/汉得SRM_tomcat.jsp登陆绕过漏洞.py)
+20. [深信服应用交付管理系统login远程命令执行漏洞](/2023HW/2023.8.9/深信服应用交付管理系统login远程命令执行漏洞.py)
+21. [用友-NC-Cloud远程代码执行](/2023HW/2023.8.9/用友-NC-Cloud远程代码执行.py)
+22. [用友移动管理系统uploadApk.do任意文件上传漏洞](/2023HW/2023.8.9/用友移动管理系统uploadApk.do任意文件上传漏洞.py)
+23. [网神SecGate3600防火墙obj_app_upfile任意文件上传漏洞](/2023HW/2023.8.9/网神SecGate3600防火墙obj_app_upfile任意文件上传漏洞.py)
+24. [辰信景云终端安全管理系统_login_SQL注入漏洞](/2023HW/2023.8.9/辰信景云终端安全管理系统_login_SQL注入漏洞.py)
+25. [LiveBOS_howImage.do任意文件读取漏洞](/2023HW/20238.16/LiveBOS_howImage.do任意文件读取漏洞.py)
+26. [亿赛通电子文档安全管理系统UploadFileFromClientServiceForClient任意文件上传漏洞](/2023HW/20238.16/亿赛通电子文档安全管理系统UploadFileFromClientServiceForClient任意文件上传漏洞.py)
+27. [深信服SG上网优化管理系统catjs.php任意文件读取漏洞](/2023HW/20238.16/深信服SG上网优化管理系统catjs.php任意文件读取漏洞.py)
+
+
 
 
 ## Goby POC (仅适用于2.0之前的版本，2.0版本导入后会导致查询规则为空，导致poc匹配了所有资产，后面会新开一个仓库写2.0版本的poc)
