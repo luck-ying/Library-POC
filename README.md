@@ -68,6 +68,7 @@
 9. 2023/09/19 [用友时空KSOA_servlet_imagefield_sKeyvalue_sql注入](用友/用友时空KSOA_servlet_imagefield_sKeyvalue_sql注入.py)
 10. 2023/10/07 [用友移动系统管理_maportal_appmanager_init_appname_sql注入](用友/用友移动系统管理_maportal_appmanager_init_appname_sql注入.py)
 11. 2023/10/07 [用友移动系统管理_maportal_usermanager_init_ucode_sql注入](用友/用友移动系统管理_maportal_usermanager_init_ucode_sql注入.py)
+12. 2023/10/07 [用友GPR-U8_u8qx_slbmbygr_gsdm_sql注入](用友/用友GPR-U8_u8qx_slbmbygr_gsdm_sql注入.py)
 ## 2023 HW
 1. [企望制造ERP_comboxstore.action远程命令执行漏洞](/2023HW/2023.8.13/企望制造ERP_comboxstore.action远程命令执行漏洞.py)
 2. [大华智慧园区综合管理平台getFaceCapture_SQL注入漏洞](/2023HW/2023.8.13/大华智慧园区综合管理平台getFaceCapture_SQL注入漏洞.py)
