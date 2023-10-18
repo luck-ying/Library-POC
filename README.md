@@ -64,7 +64,10 @@
 5. 2022/07/29 [明御waf登录绕过](明御waf/Ming_Royal_WAF-Login_Bypass.py)
 6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
 7. 2023/09/19 [JumpServer未授权访问漏洞-CVE-2023-42442](JumpServer/JumpServer未授权访问漏洞-CVE-2023-42442.py)
-8. 
+8. 2023/09/19 [用友时空KSOA_common_dept_deptid_sql注入](用友/用友时空KSOA_common_dept_deptid_sql注入.py)
+9. 2023/09/19 [用友时空KSOA_servlet_imagefield_sKeyvalue_sql注入](用友/用友时空KSOA_servlet_imagefield_sKeyvalue_sql注入.py)
+10. 2023/10/07 [用友移动系统管理_maportal_appmanager_init_appname_sql注入](用友/用友移动系统管理_maportal_appmanager_init_appname_sql注入.py)
+11. 2023/10/07 [用友移动系统管理_maportal_usermanager_init_ucode_sql注入](用友/用友移动系统管理_maportal_usermanager_init_ucode_sql注入.py)
 ## 2023 HW
 1. [企望制造ERP_comboxstore.action远程命令执行漏洞](/2023HW/2023.8.13/企望制造ERP_comboxstore.action远程命令执行漏洞.py)
 2. [大华智慧园区综合管理平台getFaceCapture_SQL注入漏洞](/2023HW/2023.8.13/大华智慧园区综合管理平台getFaceCapture_SQL注入漏洞.py)
