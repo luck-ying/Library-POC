@@ -72,6 +72,7 @@
 58. 2023/10/11 [jeecgboot_field_sql](/jeecg-boot/jeecgboot_field_sql.py)
 59. 2023/10/11 [jeecgboot_qurestSql_sql](/jeecg-boot/jeecgboot_qurestSql_sql.py)
 60. 2023/10/11 [jeecgboot_getDictItemsByTable_sql](/jeecg-boot/jeecgboot_getDictItemsByTable_sql.py)
+61. 2023/10/18 [金山终端安全系统V9.0SQL注入漏洞](/金山终端安全系统/金山终端安全系统V9.0SQL注入漏洞.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
