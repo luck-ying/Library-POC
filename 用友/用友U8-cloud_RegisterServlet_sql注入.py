@@ -1,7 +1,7 @@
 '''
 Date: 2023-11-19 14:08:24
-LastEditTime: 2023-11-19 14:23:56
-FilePath: \用友\用友U8-cloud_RegisterServlet_sql注入.py
+LastEditTime: 2023-11-19 14:36:36
+FilePath: \undefinedd:\ying-tools\Library-POC-master\pocsuite3_POC\用友\用友U8-cloud_RegisterServlet_sql注入.py
 Description: 
 
 Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
@@ -17,9 +17,9 @@ class POC(POCBase):
     vulID = '0'  # ssvid ID 如果是提交漏洞的同时提交 PoC,则写成 0
     version = '1'  #默认为1
     author = ['']  #  PoC作者的大名
-    vulDate = '2023-10-07'  #漏洞公开的时间,不知道就写今天
-    createDate = '2023-10-07'  # 编写 PoC 的日期
-    updateDate = '2023-10-07'  # PoC 更新的时间,默认和编写时间一样
+    vulDate = '2023-11-19'  #漏洞公开的时间,不知道就写今天
+    createDate = '2023-11-19'  # 编写 PoC 的日期
+    updateDate = '2023-11-19'  # PoC 更新的时间,默认和编写时间一样
     references = ['']  # 漏洞地址来源,0day不用写
     name = '用友U8 Cloud前台SQL注入'  # PoC 名称
     appPowerLink = ''  # 漏洞厂商主页地址
