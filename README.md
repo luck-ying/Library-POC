@@ -78,6 +78,7 @@
 64. 2023/12/14 [i-doc-view_url文件读取漏洞](i-doc-view/i-doc-view_url文件读取漏洞.py)
 65. 2023/12/14 [网神SecGate3600防火墙authManageSet.cgi_信息泄露](网神SecGate/网神SecGate3600防火墙authManageSet.cgi_信息泄露.py)
 66. 2023/12/14 [网神SecGate3600防火墙cgi-bin_index.cgi_默认口令.py](网神SecGate/网神SecGate3600防火墙cgi-bin_index.cgi_默认口令.py)
+67. 2023/12/14 [泛微-云桥e-Bridge_taste_addTaste_mobile_sql时间盲注](/Weaver/泛微-云桥e-Bridge_taste_addTaste_mobile_sql注入.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
