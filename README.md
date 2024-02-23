@@ -83,6 +83,7 @@
 69. 2024/02/23 [用友U8C-AppPhoneServletService-SQL注入](用友/用友U8C-AppPhoneServletService-SQL注入.py)
 70. 2024/02/23 [用友U8C-KeyWordReportQuery-SQL注入](用友/用友U8C-KeyWordReportQuery-SQL注入.py)
 71. 2024/02/23 [用友U8C-ReportDetailDataQuery-SQL注入](用友/用友U8C-ReportDetailDataQuery-SQL注入.py)
+72. 2024/02/23 [用友U8C-ArchiveVerify-SQL注入](用友/用友U8C-ArchiveVerify-SQL注入.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
