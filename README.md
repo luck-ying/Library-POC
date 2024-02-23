@@ -80,6 +80,9 @@
 66. 2023/12/14 [网神SecGate3600防火墙cgi-bin_index.cgi_默认口令.py](网神SecGate/网神SecGate3600防火墙cgi-bin_index.cgi_默认口令.py)
 67. 2023/12/14 [泛微-云桥e-Bridge_taste_addTaste_mobile_sql时间盲注](/Weaver/泛微-云桥e-Bridge_taste_addTaste_mobile_sql注入.py)
 68. 2023/12/19 [致远M3远程代码执行漏洞](致远OA/致远M3远程代码执行漏洞.py)
+69. 2024/02/23 [用友U8C-AppPhoneServletService-SQL注入](用友/用友U8C-AppPhoneServletService-SQL注入.py)
+70. 2024/02/23 [用友U8C-KeyWordReportQuery-SQL注入](用友/用友U8C-KeyWordReportQuery-SQL注入.py)
+71. 2024/02/23 [用友U8C-ReportDetailDataQuery-SQL注入](用友/用友U8C-ReportDetailDataQuery-SQL注入.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
