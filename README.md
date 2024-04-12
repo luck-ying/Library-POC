@@ -88,6 +88,7 @@
 74. 2024/04/12 [泰博云平台solr接口SSRF](泰博云平台/泰博云平台solr接口SSRF.py)
 75. 2024/04/12 [新视窗新一代物业管理系统RegisterManager任意文件上传](新视窗新一代物业管理系统/新视窗新一代物业管理系统RegisterManager任意文件上传.py)
 76. 2024/04/12 [润尼尔虚拟仿真实验室系统FileUploadServlet任意文件上传](润尼尔虚拟仿真实验室系统/润尼尔虚拟仿真实验室系统FileUploadServlet任意文件上传.py)
+77. 2024/04/12 [H3C用户自助服务平台dynamiccontent_properties_xhtml](H3C/H3C用户自助服务平台dynamiccontent_properties_xhtml.py)
 ## 2022 HW
 1. 2022/07/28 [用友-KSOA-前台任意文件上传](用友/用友-KSOA-前台任意文件上传)
 2. 2022/07/28 [天融信上网行为管理系统static_convert.php命令执行](topsec/天融信上网行为管理系统命令执行)
